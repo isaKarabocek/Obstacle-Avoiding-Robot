@@ -1,3 +1,3 @@
 # Obstacle-Avoiding-Robot
 
-<img src="https://github.com/isaKarabocek/Obstacle-Avoiding-Robot/blob/main/Robot.jpg" width="250">
+![algorithm](https://github.com/isaKarabocek/Obstacle-Avoiding-Robot/blob/main/Algorithm_Diagram.png)
